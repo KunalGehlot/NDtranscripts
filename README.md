@@ -1,21 +1,16 @@
-# Google-Developer-AMA-Transcripts
+# Intel Edge AI Scholarship AMA transcripts
 
-Since we will spend a whole 6 months in the Nanodegree, this repository is a more organized way for collecting the transcripts of AMA sessions as they will be a lot of them starting from beginning of the scholarship period. the process of showing Q&As based on categorizing the questions based on the track and whether it is a general or techinical. adding the feature of browsing using the time of the session for reading a session as a whole.
+Since we will spend a 3 months in the Phase one of this Nanodegree, this repository is a more organized way for collecting the transcripts of AMA sessions as they will be a lot of them starting from beginning of the scholarship period. Adding the feature of browsing using the time of the session for reading a session as a whole.
 
 ### **Categorizing is based on color code.**
 *PS: Colors are chosen randomaly and they would be edited.*
 * General: light grey
 * Technical: purpule
-* Android basics: green
-* Android Advanced: yellow
-* Front-end: blue
-* Mobile web: red
-
 
 The webpage still have some design issues I will work on them later. just got tired and bored for the moment.
 ## Features
 1. Filters by category, type and time
-2. Search abitli
+2. Search ability
 3. Reminder with upcoming sessions
 4. Downloadable version transcripts
 
